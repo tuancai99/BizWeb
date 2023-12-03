@@ -59,15 +59,20 @@ Follow these steps to get your BizWeb platform up and running.
    Open your browser and visit http://localhost:3000 to access BizWeb.
 
 ## Some Screenshots: 
-![Login](https://github.com/tuancai99/BizWeb/assets/93027364/127f93a8-ee14-4520-8813-1d32128c1df8)
-![Menu](https://github.com/tuancai99/BizWeb/assets/93027364/4907a698-20b6-411e-a987-dff77ee015d7)
-![Register New Client](https://github.com/tuancai99/BizWeb/assets/93027364/146ed08e-72e1-49ef-ad7f-aa8cd37fe50a)
-![Client Document](https://github.com/tuancai99/BizWeb/assets/93027364/d4b704ac-a189-4075-b69a-e3b238d1c7df)
-![Look Up Existing Client](https://github.com/tuancai99/BizWeb/assets/93027364/a831f6f9-6af1-4041-86e1-f308d466e27f)
-![Client History](https://github.com/tuancai99/BizWeb/assets/93027364/24988ba1-5b8d-43bf-9a1e-8d13ceef7746)
-![Direct Project 7](https://github.com/tuancai99/BizWeb/assets/93027364/53f98df5-0ac5-4e1f-8466-580a2a63b086)
-![Project Cart](https://github.com/tuancai99/BizWeb/assets/93027364/64406035-d5f5-4038-bee8-4759d78e8b76)
-![Project Info](https://github.com/tuancai99/BizWeb/assets/93027364/89e348a3-111f-45e6-ac18-44ce1feeea10)
+
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/127f93a8-ee14-4520-8813-1d32128c1df8" alt="Login" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/4907a698-20b6-411e-a987-dff77ee015d7" alt="Menu" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/146ed08e-72e1-49ef-ad7f-aa8cd37fe50a" alt="Register New Client" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/d4b704ac-a189-4075-b69a-e3b238d1c7df" alt="Client Document" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/a831f6f9-6af1-4041-86e1-f308d466e27f" alt="Look Up Existing Client" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/24988ba1-5b8d-43bf-9a1e-8d13ceef7746" alt="Client History" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/81012c4a-eb18-4d93-a68e-5055cd4a0662" alt="Direct Project 4" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/53f98df5-0ac5-4e1f-8466-580a2a63b086" alt="Direct Project 7" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/c7fc44e9-3aee-4e83-93a8-792b7e1cf2a3" alt="Direct Project 3" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/921b7b10-96f0-4eef-b6e3-c3dcc8331bd1" alt="Direct Project 1" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/64406035-d5f5-4038-bee8-4759d78e8b76" alt="Project Cart" width="200"/>
+<img src="https://github.com/tuancai99/BizWeb/assets/93027364/89e348a3-111f-45e6-ac18-44ce1feeea10" alt="Project Info" width="200"/>
+
 
 
 
