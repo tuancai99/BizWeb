@@ -1,6 +1,6 @@
 # BizWeb (GT WebDev)
 ## Introduction:
-Meet BizWeb, a solution crafted to address the unique challenges of our traditional business client. In an industry where keeping track of employees, managing sensitive data, and tracking service progress can be a hurdle, BizWeb steps in as the go-to solution. It's designed for simplicity and efficiency, aiming to make daily business tasks easier. Let’s take a  [look](https://www.figma.com/file/9BnnS857uTXRENUSRkwfyT/BizWeb?type=design&node-id=228%3A35&mode=design&t=WRgSDJnPg34lun0h-1) around, and boost our workflow together.
+Meet BizWeb, a solution crafted to address the unique challenges of our traditional business client. In an industry where keeping track of employees, managing sensitive data, and tracking service progress can be a hurdle, BizWeb steps in as the go-to solution. It's designed for simplicity and efficiency, aiming to make daily business tasks easier. Let’s take a look at [Our Design](https://www.figma.com/file/9BnnS857uTXRENUSRkwfyT/BizWeb?type=design&node-id=228%3A35&mode=design&t=WRgSDJnPg34lun0h-1), and boost our workflow together.
 
 ## Built with:
 
